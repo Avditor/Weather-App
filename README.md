@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I built a sleek and responsive weather app using **React, JavaScript, and Vite** for fast performance and efficient development. The app fetches real-time weather data from an API, displaying **temperature, min/max temperature, and weather** for any searched location. It features a clean **UI with dynamic icons**, background changes based on weather conditions, and a smooth **user experience**. I used **React Hooks** for state management and **Axios** for API requests. The app is fully responsive, ensuring usability across devices. With **Vite**, the build is optimized for speed. Future plans include adding **hourly forecasts** and geolocation support.
